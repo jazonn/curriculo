@@ -1,0 +1,23 @@
+body{
+font-weight: 400;
+margin: 0%;
+padding: 0%;
+  font-family: "Bad Script", cursive;
+}
+::selection{
+  color: #FFDFD3;
+}
+#cabecalho{
+height: 100%;
+width: 100%;
+background-image: url("images/ceu.jpg");
+background-size: cover;
+padding-top: 20%;
+padding-bottom: 22%;
+}
+#texto-principal{
+padding-left: 36%;
+font-size: 330%;
+font-weight: bold;
+color: white;
+}
